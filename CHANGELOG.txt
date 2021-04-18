@@ -1,1 +1,16 @@
+1.01 4/18/2021:
+
+PARTS UPDATED: ST Handle Left, ST Handle Right, Slide L, Slide R, Trigger, Actuator, Catch Roof, Muzzle
+
+-ST Handle Halves updated, Monogrip mount guides fixed, walls made thicker to strengthen the parts.
+-Two duplicate L slides were accidently included with one mislabled, correct R side added
+-L slide updated to fix potential nozzle snag causing missed steps
+-Catch roof opening made slightly smaller to limit play in the plunger while catch is engaged, improving trigger pull
+-Small ramp added to the Actuator to prevent collisions with the Catch Plate.
+-Alternate Actuators with different offsets added if the standard one doesn't work
+-Opening for the trigger bar in the trigger widened to allow further actuation
+-Muzzle altered to fit the LONG DETENT PIN. If you have a SHORT DETENT PIN, print the alternate "SHORT PIN MUZZLE" found in Extras & Experimental. 
+
+
 4/11/2021: Fileset created, uploaded, and Frame Kits released.
+
