@@ -1,6 +1,20 @@
+1.02 4/21/2021:
+PARTS UPDATED: Muzzle, Plunger, Catch House, Catch Roof, Release Nub
+
+PARTS ADDED: M5 Thumbscrew BUTTON HEAD
+
+-Ridges added to wedge muzzle against the side panels
+-Muzzle thumbscrew nut slots made larger to ease nut install
+-Plunger updated to reduce catch engagement and improve trigger pull
+-Catch House altered so the catch only rides on two outer rails instead of an entire flat surface, reducing friction. (CATCH HOUSE NOW REQUIRES SUPPORT MATERIAL, GENERATED ONLY FROM THE BED.)
+-Catch roof updated to reduce catch engagement and improve trigger pull
+-Release nub lengthened to ensure the mounting screw doesn't inferfere with the handle
+
 1.01 4/18/2021:
 
 PARTS UPDATED: ST Handle Left, ST Handle Right, Slide L, Slide R, Trigger, Actuator, Catch Roof, Muzzle
+
+PARTS ADDED: SHORT PIN Muzzle
 
 -ST Handle Halves updated, Monogrip mount guides fixed, walls made thicker to strengthen the parts.
 -Two duplicate L slides were accidently included with one mislabled, correct R side added
