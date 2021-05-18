@@ -1,3 +1,21 @@
+1.04
+PARTS UPDATED: Turnaround, PT Mount, Release external, Release internal, Butt Plate Carbine, AT T Gaurd, ST T Gaurd, Catch Surface, Dummy Cap, Pusher, Dart Tooth, All handles (MINOR)
+
+PARTS ADDED: Turnaround (DO NOT PRINT UNLESS YOU KNOW WHAT YOU ARE DOING!!!!!!!!!!!!)
+
+-Turnaround updated to reduce print time and improve barrel mount seal (If you have the OLD Turnaround, you must print the "PT Mount OLD", found in the Extras and Experimental folder.)
+-PT mount updated to fit updated turnaround. Old turnarounds must use the "PT Mount OLD", found in the Extras and Experimental folder.
+-Release external diameter reduced slightly to ensure it doesn't rub against the handle
+-Release internal changed to better hold spring
+-Hex key slots altered in the butt plate to better hold the keys
+-AT T Gaured altered so it no longer interferes with its handle mount
+-ST T Gaured altered so it no longer interferes with its handle mount
+-Release Internal altered to better contain the larger spring
+-Catch surface altered slightly to improve smoothness of the prime and prevent possible stuckage on the dart roof
+-Dummy Cap made slightly smaller to ease install, may require CA glue if your printer is very good.
+-Pusher altered to ease T Pull install
+-Pusher and Dart Tooth altered to allow the use of partially threaded M5x55mm screws. Old fully threaded screws will still work.
+
 1.03 5/7/2021:
 PARTS UPDATED: Monogrip, Dart Tooth, Pusher, Muzzle, Release Nub
 
