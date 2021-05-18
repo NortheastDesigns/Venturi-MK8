@@ -1,4 +1,4 @@
-1.04
+1.04 5/18/2021
 PARTS UPDATED: Turnaround, PT Mount, Release external, Release internal, Butt Plate Carbine, AT T Gaurd, ST T Gaurd, Catch Surface, Dummy Cap, Pusher, Dart Tooth, All handles (MINOR)
 
 PARTS ADDED: Turnaround (DO NOT PRINT UNLESS YOU KNOW WHAT YOU ARE DOING!!!!!!!!!!!!)
