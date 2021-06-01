@@ -1,3 +1,16 @@
+1.05
+PARTS UPDATED: Butt Plate Carbine, Carbine Finish Plate 1, Carbine Finish Plate 2, T Pull, Pusher, Dart Tooth, Pusher Top.
+
+-Butt Plate Carbine altered to improve sight picture and reduce print time
+-Carbine Finish Plate 1 altered to reduce amount of support material needed
+-Carbine Finish Plate 2 altered to prevent interference with Butt Plate
+-Optional M4 Threaded sling mount points added to Butt Plate Carbine
+-T Pull altered to improve aesthetics and ease install
+-Pusher altered to fit tighter on the priming bars and improve strength of return spring mounts
+-Pusher altered to better seal in the new turnaround
+-Dart Tooth altered to slightly improve strength
+-Pusher Top shortened slightly to prevent possible misfeeding
+
 1.04 5/18/2021
 PARTS UPDATED: Turnaround, PT Mount, Release external, Release internal, Butt Plate Carbine, AT T Gaurd, ST T Gaurd, Catch Surface, Dummy Cap, Pusher, Dart Tooth, All handles (MINOR)
 
