@@ -1,0 +1,46 @@
+Butt Plate Carbine:
+Butt Plate Carbine:
+Nozzle Size: 0.4-0.6mm
+Perimeter Count: 3-4
+Infill: 20% Octet Pattern
+Layer Height: 0.2-0.3mm
+Support material: None
+
+Pump Mount:
+Nozzle Size: 0.4mm
+Perimeter Count: 5-6
+Infill: 100% "Lines" pattern
+Layer Height: 0.1mm-0.3mm
+Support material: None
+
+Pivot Bushing (X2):
+Nozzle Size: 0.4mm
+Perimeter Count: 5-6
+Infill: 100% "Lines" pattern
+Layer Height: 0.1mm-0.3mm
+Support material: None
+
+Finish plate (1 & 2):
+Nozzle Size: 0.4mm
+Perimeter Count: 3-4
+Infill: 25% Octet Pattern
+Layer Height: 0.1mm-0.3mm
+Support material: Generated only from bed
+
+Total parts needed for one (1) MK8 Carbine Conversion:
+1x Pump Mount
+2x Finish Plate 1
+2x Finish Plate 2
+2x Pivot Bushing
+1x Butt Plate Carbine
+
+Hardware:
+-2x M4x25mm screws
+-2x M4x12mm Screws
+-2x M3x6mm screws
+-2x M3 Brass Inserts
+-1x Quick Release Pin
+-6x M4 Nuts 
+-2x M5x500 screws (Included in frame kit, not stock kit.)
+
+
