@@ -1,4 +1,4 @@
-1.05
+1.05 6/1/2021
 PARTS UPDATED: Butt Plate Carbine, Carbine Finish Plate 1, Carbine Finish Plate 2, T Pull, Pusher, Dart Tooth, Pusher Top.
 
 -Butt Plate Carbine altered to improve sight picture and reduce print time
