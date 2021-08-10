@@ -1,3 +1,23 @@
+1.06 8/10/2021
+
+1.06 fileset coincides with the release of the second batch of side panels. ALL PARTS REMAIN CROSS COMPATIBLE, but I will list the changes made to the hardware below.
+
+-”Venturi” logo changed from a cutout to a laser etched pattern, including a small NED Logo and TFA Logo.
+-Powder coated panels listed as an option, the color options being Purple, Gold, Red, and Blue.
+-Catch Plate & Catch Washer switched from Aluminum to Steel, to greatly reduce friction and improve trigger feel.
+
+PARTS UPDATED: Updated: Catch House, Catch Roof, Trigger, Muzzle.
+
+PARTS ADDED: Muzzle Nut Shims, M4 Panel Washer, M3 Panel Washer.
+
+-Catch guides in the Catch House altered slightly.
+-Catch Roof altered for less play in the catch plate to improve trigger pull.
+-Trigger altered to be slimmer and easier to reach from the handle
+-Dual sling mounting points added to the muzzle
+-"Muzzle Nut Shims" added. Print two of these, and install them in the muzzle to keep the M4 nuts from falling out.
+-M3 & M4 Panel Washers added. Use these underneath all screws that attach the side panels, to protect the powdercoated surface. They screw on fairly tight and will remain captive. 
+For one Venturi you will need: 14x M4 Panel Washers, and 2x M3 Panel Washers.
+
 1.05 6/1/2021
 PARTS UPDATED: Butt Plate Carbine, Carbine Finish Plate 1, Carbine Finish Plate 2, T Pull, Pusher, Dart Tooth, Pusher Top.
 
