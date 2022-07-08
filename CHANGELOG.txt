@@ -1,3 +1,28 @@
+1.08
+
+PARTS ADDED: Slim AT (Nightengale) Handle for the new Worker mags and a smaller grip, Slimnose kit
+
+PARTS UPDATED: Trigger, Slide R, Slide L, Pusher
+
+-Trigger made slimmer and more comfortable
+-Both slides updated to fit around the Slim AT handle's reinforcement shims. The SN plate has been relocated to the left Slide.
+-Pusher updated to slim it down.
+
+1.07
+
+PARTS UPDATED: Plunger, Butt Plate Carbine, Muzzle, PT Mount
+
+-Plunger updated to decrease catch engagement distance and improve trigger pull. Alternate plungers with different engagements also added. 
+If you experience misfires, print a HIGH ENGAGEMENT plunger. If your trigger is too stiff, print a LOW ENGAGEMENT plunger.
+LOW ENGAGEMENT plunger: 0.10" engagement distance
+MID ENGAGEMENT (STANDARD FILE) plunger: 0.125" engagement distance
+HIGH ENGAGEMENT plunger: 0.17" engagement distance
+
+-Butt Plate Carbine updated to add integrated sling mount points, and a second hole for the detent pin has been added so you can lock the stock closed by installing the pin 
+through that hole, into a second hold located in the muzzle.
+-Muzzle updated to add the aforementioned pin mounting hole
+-PT Mount updated to prevent possible collision with the Pump Mount on the Carbine version
+
 1.06 8/10/2021
 
 1.06 fileset coincides with the release of the second batch of side panels. ALL PARTS REMAIN CROSS COMPATIBLE, but I will list the changes made to the hardware below.
@@ -13,7 +38,7 @@ PARTS ADDED: Muzzle Nut Shims, M4 Panel Washer, M3 Panel Washer.
 -Catch guides in the Catch House altered slightly.
 -Catch Roof altered for less play in the catch plate to improve trigger pull.
 -Trigger altered to be slimmer and easier to reach from the handle
--Dual sling mounting points added to the muzzle
+-Dual sling mounting points added to the muzzle. 
 -"Muzzle Nut Shims" added. Print two of these, and install them in the muzzle to keep the M4 nuts from falling out.
 -M3 & M4 Panel Washers added. Use these underneath all screws that attach the side panels, to protect the powdercoated surface. They screw on fairly tight and will remain captive. 
 For one Venturi you will need: 14x M4 Panel Washers, and 2x M3 Panel Washers.
