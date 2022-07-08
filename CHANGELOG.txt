@@ -1,6 +1,6 @@
 1.08
 
-PARTS ADDED: Slim AT (Nightengale) Handle for the new Worker mags and a smaller grip, Slimnose kit,
+PARTS ADDED: Slim AT (Nightengale) Handle for the new Worker mags and a smaller grip, Slimnose kit, Mini T Pull
 High Engagement Plunger, Low Engagement Plunger.
 
 PARTS UPDATED: Trigger, Slide R, Slide L, Pusher
@@ -10,6 +10,7 @@ PARTS UPDATED: Trigger, Slide R, Slide L, Pusher
 -Pusher updated to slim it down.
 -High/Low engagement plungers added to aid trigger issues. Use the low engagement plunger if you trigger is too heavy,
 use the high engagement plunger if you're having misfiring issues.
+-Optional Mini T Pull added, can be found in "Extras And Experimental.
 
 1.07
 
