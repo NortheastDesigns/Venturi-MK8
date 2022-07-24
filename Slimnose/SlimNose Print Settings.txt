@@ -1,0 +1,9 @@
+**SlimNose Print Settings**
+
+SlimNose Foregrip, SlimNose PT Mount, SlimNose Catch House, Slimnose Catch Roof, and Slimnose Muzzle:
+
+25%+ Infill, 4+ perimeter lines, 0.2-0.35mm layer height, no support material.
+
+SlimNose Actuator:
+
+100% Infill, 6+ perimeter lines, 0.1-0.3mm layers, support material generated everywhere.
