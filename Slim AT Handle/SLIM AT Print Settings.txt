@@ -1,0 +1,20 @@
+**SLIM AT Handle Print Settings**
+
+Slim AT Handle Right, Slim AT Handle Left:
+
+25%+ Infill, 4+ perimeter lines, 0.2-0.35mm layer height, support material generated only from build plate.
+
+**IMPORTANT: Make sure your supports are well tuned before printing these parts! If your supports aren't well tuned,
+you can end up trying to scrape supports out of the magwell for ages.**
+
+Slim AT Monogrip: 
+
+25%+ Infill, 4+ perimeter lines, 0.2-0.35mm layer height, No Supports.
+
+**Note (Cura Only): to print the Slim AT Monogrip with a textured surface, enable "Fuzzy Skin" in cura under the
+"experimental" menu. Fuzzy Skin settings: 0.3mm thickness, 1.25mm Density, 0.8mm Point Distance.**
+
+Slim AT Release, Slim AT Release Nub:
+
+25%+ Infill, 4+ perimeter lines, 0.2-0.35mm layer height, No Supports.
+
